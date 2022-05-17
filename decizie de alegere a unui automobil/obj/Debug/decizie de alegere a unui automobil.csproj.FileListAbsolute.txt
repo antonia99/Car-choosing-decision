@@ -1,0 +1,7 @@
+D:\master an1\sem2\Lixi\decizie de alegere a unui automobil\decizie de alegere a unui automobil\bin\Debug\decizie de alegere a unui automobil.exe.config
+D:\master an1\sem2\Lixi\decizie de alegere a unui automobil\decizie de alegere a unui automobil\bin\Debug\decizie de alegere a unui automobil.exe
+D:\master an1\sem2\Lixi\decizie de alegere a unui automobil\decizie de alegere a unui automobil\bin\Debug\decizie de alegere a unui automobil.pdb
+D:\master an1\sem2\Lixi\decizie de alegere a unui automobil\decizie de alegere a unui automobil\obj\Debug\decizie de alegere a unui automobil.csprojAssemblyReference.cache
+D:\master an1\sem2\Lixi\decizie de alegere a unui automobil\decizie de alegere a unui automobil\obj\Debug\decizie de alegere a unui automobil.csproj.CoreCompileInputs.cache
+D:\master an1\sem2\Lixi\decizie de alegere a unui automobil\decizie de alegere a unui automobil\obj\Debug\decizie de alegere a unui automobil.exe
+D:\master an1\sem2\Lixi\decizie de alegere a unui automobil\decizie de alegere a unui automobil\obj\Debug\decizie de alegere a unui automobil.pdb
